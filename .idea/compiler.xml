@@ -2,6 +2,9 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="Programmers-Na" target="17" />
+      <module name="Programmers-Na.main" target="17" />
+      <module name="Programmers-Na.test" target="17" />
       <module name="ProgrammersLv0-Yong" target="17" />
       <module name="ProgrammersLv0-Yong.main" target="17" />
       <module name="ProgrammersLv0-Yong.test" target="17" />
