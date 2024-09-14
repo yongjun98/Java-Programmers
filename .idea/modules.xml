@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Programmers.iml" filepath="$PROJECT_DIR$/.idea/Java-Programmers.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Programmers-Na.iml" filepath="$PROJECT_DIR$/Programmers-Na.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programmers-Na/Programmers-Na.iml" filepath="$PROJECT_DIR$/Programmers-Na/Programmers-Na.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Programmers-Na.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Programmers-Na.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Programmers-Na.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Programmers-Na.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/Programmers-Yong/Programmers-Yong.iml" filepath="$PROJECT_DIR$/Programmers-Yong/Programmers-Yong.iml" />
